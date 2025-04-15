@@ -1,8 +1,0 @@
-{
-	"BuildId": "33043543",
-	"Modules": 
-	{
-		"EasyTelemetry": "UnrealEditor-EasyTelemetry.dll",
-		"EasyTelemetryRuntime": "UnrealEditor-EasyTelemetryRuntime.dll"
-	}
-}
